@@ -11,7 +11,11 @@ I'm a Twitch Junkie and I can't deny it. That's why I wrote a script that:
 - `youtube-dl` does all the heavy-lifting. Kudos to the devs!
 - `hy` is the interpreter binary that comes with `pip install hy`.
 
-## Making this a Cron Job
+## Adding Your Channel of Choice
+
+This repo contains an example `twitchconfig.json`. Add your streamer's Twitch ID (`www.twitch.tv/{twitch-id}`) to `streamers`.
+
+## Making This a Cron Job
 
 - [Tutorial on making a cron job](https://docs.oracle.com/cd/E19455-01/805-7229/6j6q8svfo/index.html)
 - [Excellent Guide to the Crontab file syntax](https://crontab.guru)
