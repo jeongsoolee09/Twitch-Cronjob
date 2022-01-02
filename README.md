@@ -2,7 +2,7 @@
 
 I'm a Twitch Junkie and I can't deny it. That's why I wrote a script that:
 - checks if a given channel (specified with the Twitch ID) is live,
-- and if the channel is live, download the stream.
+- and if the channel is live, downloads the stream.
 
 ## Deps
 
